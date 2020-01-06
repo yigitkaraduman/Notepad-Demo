@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/icons8-about-48.png</file>
+        <file>img/icons8-cancel-30.png</file>
+        <file>img/icons8-copy-64.png</file>
+        <file>img/icons8-cut-50.png</file>
+        <file>img/icons8-cute-clipart-64.png</file>
+        <file>img/icons8-new-file-64.png</file>
+        <file>img/icons8-opened-folder-30.png</file>
+        <file>img/icons8-paste-50.png</file>
+        <file>img/icons8-save-as-64.png</file>
+        <file>img/icons8-save-close-64.png</file>
+        <file>img/icons8-undo-64.png</file>
+        <file>img/icons8-font-style-formatting-50.png</file>
+        <file>img/icons8-printer-48.png</file>
+    </qresource>
+</RCC>
